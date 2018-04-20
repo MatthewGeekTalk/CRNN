@@ -1,0 +1,2 @@
+INFO: 04-16 10:06:02: tf_logging.py:82 * 57668 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 04-16 10:06:02: demo_shadownet.py:87 * 57668 Predict image test_04.jpg label nnecls

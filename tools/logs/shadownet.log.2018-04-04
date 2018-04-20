@@ -1,0 +1,11 @@
+INFO: 04-04 14:10:06: tf_logging.py:82 * 178024 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-09-29-19-16-33.ckpt-39999
+INFO: 04-04 14:15:36: tf_logging.py:82 * 189628 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 04-04 14:15:37: demo_shadownet.py:87 * 189628 Predict image test_01.jpg label credtwoathtness
+INFO: 04-04 14:21:54: tf_logging.py:82 * 186864 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 04-04 14:21:55: demo_shadownet.py:87 * 186864 Predict image test_01.jpg label snstias
+INFO: 04-04 14:23:31: tf_logging.py:82 * 185880 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 04-04 14:23:31: demo_shadownet.py:87 * 185880 Predict image test_02.jpg label massaging
+INFO: 04-04 14:25:01: tf_logging.py:82 * 189324 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 04-04 14:25:02: demo_shadownet.py:87 * 189324 Predict image test_04.jpg label nnecls
+INFO: 04-04 16:08:41: tf_logging.py:82 * 182024 Restoring parameters from C:\Users\I069405\PycharmProjects\CRNN_Tensorflow\model\shadownet\shadownet_2017-10-17-11-47-46.ckpt-199999
+INFO: 04-04 16:08:42: demo_shadownet.py:87 * 182024 Predict image test_04.jpg label nnecls
